@@ -4,8 +4,6 @@ title: Living Through the End of History
 tags: Overview
 ---
 
-## The End of History
-
 During the early 90s Francis Fukuyama wrote a book, 'The End of History and the
 Last Man' whose thesis has become the punchline to bitter jokes. In this book he
 argued that with the passing of the Soviet Union the world had reached the
