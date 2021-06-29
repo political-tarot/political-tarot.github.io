@@ -5,8 +5,8 @@ tags: Overview
 ---
 
 During the 90s Francis Fukuyama wrote an infamous book: 
-[https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man]('The End of 
-History and the Last Man'), which is mostly remembered now as the punchline to
+['The End of History and the Last Man'](https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man)
+, which is mostly remembered now as the punchline to
 bitter jokes. This is a little unfair to Fukuyama whose argument was a little
 more subtle than the title suggested.
 
