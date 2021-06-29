@@ -1,7 +1,6 @@
 --------
 layout: post
 title: Living Through the End of History
-published: true
 tags: the_project
 --------
 
