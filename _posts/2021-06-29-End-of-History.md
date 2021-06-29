@@ -48,7 +48,7 @@ that sense we are living through the 'end of history' - not because all
 historical change has ended, but simply because it is impossible to imagine the
 next steps from here.
 
-# The Reemergence of History
+## The Reemergence of History
 
 One reason why it seems ridiculous to talk of the end of history at the moment
 is because events have reemerged with a vengeance. Global warming is
@@ -89,7 +89,7 @@ thing is clear. The current moment is not stable. It is impossible to imagine
 things continuing as they are, even if its equally impossible to imagine a way
 out that doesn't involve mass starvation and death.
 
-# Escaping the End of History
+## Escaping the End of History
 
 The project of this blog is twofold:
 1. To take a clear, unvarnished, look at our current moment.
