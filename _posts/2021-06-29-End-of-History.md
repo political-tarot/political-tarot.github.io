@@ -3,7 +3,7 @@ layout: post
 title: Living Through the End of History
 --------
 
-# The End of History
+## The End of History
 
 During the early 90s Francis Fukuyama wrote a book, 'The End of History and the
 Last Man' whose thesis has become the punchline to bitter jokes. In this book he
