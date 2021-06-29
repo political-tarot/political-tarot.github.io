@@ -1,121 +1,92 @@
 ---
 layout: post
-title: Living Through the End of History
+title: Surviving the End of History
 tags: Overview
 ---
 
-During the early 90s Francis Fukuyama wrote a book, 'The End of History and the
-Last Man' whose thesis has become the punchline to bitter jokes. In this book he
-argued that with the passing of the Soviet Union the world had reached the
-apotheosis of historical development with western liberal democracy.
+During the 90s Francis Fukuyama wrote an infamous book: 
+[https://en.wikipedia.org/wiki/The_End_of_History_and_the_Last_Man]('The End of 
+History and the Last Man'), which is mostly remembered now as the punchline to
+bitter jokes. This is a little unfair to Fukuyama whose argument was a little
+more subtle than the title suggested.
 
-The years have not been kind to this thesis. In many countries we've seen
-liberal democracy become more authoritarian and unequal, while other countries
-are starting to flirt openly with forms of fascism. Meanwhile the US, supposedly
-the poster child for liberal democracy, is falling apart. At the same time it is
-increasingly hard to argue that liberal democracy is a good thing, as it fails
-to deal with looming environmental apocalypse. 
+Fukuyama argued that with the passing of the Soviet Union the world was left
+with one viable political system - western liberal democracy. The years have not
+been kind to this thesis. Various eastern european countries are abandoning
+their brief dalliance with democracy and are instead embracing authoritarian and
+fascist forms of government. The Republican party in the US is embracing fascism
+and sees its future as one that is incompatible with mass democracy. The UK, the
+birthplace of liberal icon John Locke, is becoming a one party state. Even in
+countries that are doing well, the elite political direction is towards
+increased centralization and authoritarianism.
 
-But I think this is a little unfair to Fukuyama. While I don't agree with him
-that liberal democracy is the end point of political development, it is
-currently very hard to see any alternative that is better. This is not to say
-that such alternatives are not possible, merely that as a species we have so far
-failed to create plausible alternatives. We can see this on the left where all
-that is on offer are tired forms of social democracy (that fail to acknowledge
-their failures), communist-nostalgia, or idealistic forms of anarchism that fail
-to grapple with the messy realities of power. 
+These trends are driven by two things:
+1. The collapse of the post-war economic consensus.
+2. The emancipation of business elites.
 
-However liberal democracy, at least in the way that Fukuyama envisages it, does
-not seem to be a stable political form either. As we've seen in countless
-countries, unless the forces of capital are kept down (by unions, or very high
-taxes), they will undermine democracy in pursuit of greater profits, lower taxes
-and greater autonomy. Furthermore, theorists of liberal democracy have never
-really admitted that the political right have very little respect for the basic
-tenets of 'liberal democracy'. Which is hardly surprising because as Corey Robin
-points out, the politics of the right are reactionary. They seek to return power
-and money to elites. Of course such a system of reactionary power is also
-unstable. It tends to result in economic and cultural stagnation, and creates
-the conditions that lead to popular revolts that revert back to some form of
-liberal democracy.
+After world war II it was undeniable that things got better for the inhabitants
+of 'western' countries. In transformede countries you saw inhabiants lives transformed
+from extreme rural poverty to a life that had some material comforts (e.g. Japan
+and Italy). Some countries saw extraordinary levels of economic development
+(western Europe, Japan), while countries that were already relatively wealthy
+(UK, US) spread that wealth to a much broader base of the population. While
+there was plenty of political friction during this time, social democratic
+parties were able to argue convincingly that they had delivered extraordinary
+gains.
 
-I think instead of thinking of the end of history, it is more productive to
-think of this moment dialectically. We are living in a period where we are
-cycling through two bankrupt political systems. Neither can really solve the
-problems that we are living through, but we are unable to break out of them. In
-that sense we are living through the 'end of history' - not because all
-historical change has ended, but simply because it is impossible to imagine the
-next steps from here.
+Then in the 70s, after a period where the US flooded the world with dollars to
+pay for Vietnam, the system began to breakdown culminating in the oil crisis and
+stagflation. The reactionary right, who had been patiently preparing since the 
+end of WWII, were able to move into an ideological vacuum and fill it with
+classical liberalism (neoliberalism in anglo dominated countries, ordoliberalism in
+germanic countries).
 
-## The Reemergence of History
+In order to succeed this ideology had to deliver economically, but as an
+economic model it was hopeless. Economic growth fell signicantly below post WWII
+norms, never to recover. But these ideologies were able to disguise their
+failure to deliver in three ways:
+1. By redistributing wealth from the bottom to the top (or more accurately, by
+   ending redistribution from the wealthy to the poor).
+2. By privatizing the commons, and spreading the wealth to a large enough base
+   as would support their policies.
 
-One reason why it seems ridiculous to talk of the end of history at the moment
-is because events have reemerged with a vengeance. Global warming is
-destablizing our world in ways that may end human civilization if left
-unchecked, a new power (China) with little respect for liberal democracy is
-rising in the world, assumptions of globalization are starting to be questioned
-while the west (defined as the EU, US and Japan) are becoming increasingly
-sclerotic. The US in particular is demonstrating that its political
-institutions, mostly unchanged since the 1790s, are incapable of solving deep
-set social and institutional problems.
+These policies, along with the encouragement of speculation in the UK/US,
+created an illusion of increased wealth. If you were a professional, or secure
+middle class person, you saw your personal wealth increase. And while you may
+have been worried by the gradual impoverishment of schools and hospitals, you
+probably didn't connect these facts to your booming stock portfolio.
 
-Clearly many of these things can be overstated. China is still a relatively poor
-country, the US has overwhelming military power and the EU core is still very
-competent. But other challenges tend to be understated. In particular the
-environmental crisis is far worse than almost anyone wants to admit. In the US
-the west is on fire for much of the year and is living through a 20 year
-megadrought (which may just be the new climate for the west), farming areas are
-starting to fail due to extreme weather and severe flooding has become so common
-that they barely get covered in the national media. Each time a new extreme is
-reached, such as this weeks insane temperatures in places like Seattle, they
-define a new normal. Covered for a week by breathless reporters, forgotten in a
-month. Meanwhile politicians do their best to protect fossil fuel interests.
+On top of that, the nu-liberals were able to benefit from various windfalls.
+Energy prices fell, while the increasing openness of third world economies to
+first world exploitation caused a collapse in the price of consumer goods. This accelerated
+spectacularly when China began to aggressively industrialize.
 
-In a similar fashion, while there are lots of breathless articles on the threat
-of populism, there's far less coverage of a more unsettling political reality.
-Or rather that in almost every western country there is no longer any meaningful
-politics. Yes parties might battle it out for control of symbolic institutions,
-but those parties don't represent any meaningful political ideology that
-addresses the problems we face. On the right we have mixtures of herrenvolk,
-patriarchal and chivalric ideologies - on the left we have ideologies of social
-(but not politico-economic) equality. Just a cycle of continual culture war,
-while the world burns and the elites loot. Neoliberalism hangs around like an
-unwanted guest, but noone really believes in it anymore even if it's all they
-know how to do.
+But despite this, during all this period there were signs of strain. Voter
+participation fell, economic crises became more frequent and the size of the
+population who were excluded from the redistributive largesse slowly increased
+with each new generation. And most significantly western countries became
+gradually post-industrial, resulting in a lumpenproletariat who experienced
+a rapid social decline.
 
-It is very hard to say what any of these things mean for our future, but one
-thing is clear. The current moment is not stable. It is impossible to imagine
-things continuing as they are, even if its equally impossible to imagine a way
-out that doesn't involve mass starvation and death.
+Finally in 2008 the system collapsed. While various elites were able to rebuild
+much of the infrastructure, the consensus that had built around markets and
+nu-liberalism was shattered, but there was nothing to replace it. There were of
+course various contenders, but all of these were nostalgic and not terribly
+convincing projects of political nostalgia. Every significant political grouping
+agreed that we had strayed from a prior golden age, even if noone could agree on
+when or what that golden age was.
 
-## Escaping the End of History
+And so we're left with a zombie politics. Neoliberalism as an ideology is dead,
+but neoliberalism as an administrative apparatus is very much with us. Political
+elections are between center-right parties who want to conserve a late 90s
+consensus, and parties of the right who wish to restore pre WWII, or even WWI,
+social and economic structures. The social and economic concerns of the majority
+of western populations are ignored and denied, while our politics completely
+fails to address issues that may threaten our existence as a species. But 
+despite this, it is impossible to imagine anything new replacing our sclerotic 
+political structures.
 
-The project of this blog is twofold:
-1. To take a clear, unvarnished, look at our current moment.
-2. To try and imagine a way out of our current predicament.
-
-I don't really expect anyone to read this, and the main purpose is to provide a
-way for me to sort out messy thoughts on these issues. It may lead to writing
-articles for leftwing journals, but then again it may not. Most likely this is
-me dealing with a midlife crisis.
-
-My starting point for this is a mixture of left-libertarianism, marxism and
-ecological. That is I want to live in a world where we live in harmony with
-nature (whatever that might mean), and where ordinary people are free to pursue
-their personal projects free of the constraints of poverty, bosses and social
-hierarchy.  An old dream, but one which seems to be rarely articulated these
-days.
-
-As for who I am beyond that:
-- a technologist who is very skeptical of technology and its claims.
-- a member of the bourgeoise who loathes the culture of the bourgeoise.
-- an intellectual who mostly dislikes intellectuals.
-- a British ex-pat living in the US who dislikes both countries.
-- someone with strong political views who avoids activism.
-
-Hopefully by acknowleding these things I can to some degree overcome them, and
-in a way a theme of this blog will be to try and examine our preconceptions and
-look at possibilities that we find uncomfortable in Anglo countries. The
-politics of communalism, reconsidering religion, critiquing hobbyist socialist
-politics and so forth.
-
-It probably won't be super interesting TBH, but hey, it's a hobby.
+So Fukuyama has turned out to be correct. Liberal democracy is the end point of
+political development, not because it is a good system but because it is the
+least bad system we can imagine. It doesn't work - but fails better than the
+alternatives. We should mourn the end of history rather than celebrate it.
